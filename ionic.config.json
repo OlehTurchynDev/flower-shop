@@ -1,0 +1,7 @@
+{
+  "name": "flower-shop",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
